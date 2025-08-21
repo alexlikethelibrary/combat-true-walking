@@ -1,4 +1,5 @@
 #include <Servo.h>
+//controller range output 1000ms to 2000ms
 
 // left leg
 Servo LeftJ1;

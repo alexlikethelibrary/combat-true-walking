@@ -1,6 +1,6 @@
 //header file
-#ifndef Robot_h
-#define Robot_h
+#ifndef walking_h
+#define walking_h
 // include errors are fake don't listen to them
 // there's something funny about vscode specifically
 #include <Arduino.h>

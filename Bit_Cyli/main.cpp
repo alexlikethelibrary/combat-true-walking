@@ -1,4 +1,5 @@
 #include <Servo.h>
+#include "walking.h"
 //controller range output 1000ms to 2000ms
 
 // left leg
@@ -20,4 +21,9 @@ void setup() {
 
 void loop() {
 // whole lotta if statements
+if(True) {
+  WalkForward()
+}
+
+
 }

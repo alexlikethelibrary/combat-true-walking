@@ -1,4 +1,5 @@
 // source file
+#include "walking.h"
 
 // include errors are fake don't listen to them
 // there's something funny about vscode specifically

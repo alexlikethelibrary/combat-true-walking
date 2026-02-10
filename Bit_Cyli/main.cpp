@@ -7,7 +7,7 @@ Servo LeftJ2;
 //right leg
 Servo RightJ1;
 Servo RightJ2;
-  // create Servo object to control a servo
+// create Servo object to control a servo
 // twelve Servo objects can be created on most boards
 
 void setup() {
